@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"/>
 </div>
 
-Hiking 🏔️
+<!--Hiking 🏔️ -->
 
 <!--
 **JamesHannigan/JamesHannigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
